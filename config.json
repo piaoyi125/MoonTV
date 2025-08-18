@@ -85,9 +85,9 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-     "xiangjiao": {
-      "api": "https://xjzy.com/api.php/provide/vod/",
+    "xiangjiao": {
+      "api": "https://xjzy.com/api.php/provide/vod",  
       "name": "香蕉资源"
-    },
+    }  
   }
 }
